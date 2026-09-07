@@ -1,0 +1,70 @@
+10 git init                                                                                                                                                       
+  11 dir                                                                                                                                                            
+  12 git status                                                                                                                                                     
+  13 ls                                                                                                                                                             
+  14 git status                                                                                                                                                     
+  15 git status                                                                                                                                                     
+  16 git commit -m "This is the testing file"                                                                                                                       
+  17 git status                                                                                                                                                     
+  18 git add testing.py                                                                                                                                             
+  19 git status                                                                                                                                                     
+  20 git commit -m "This is the testing file"                                                                                                                       
+  21 git status                                                                                                                                                     
+  22 rm testing.py                                                                                                                                                  
+  23 git status                                                                                                                                                     
+  24 git restore testing.py                                                                                                                                         
+  25 git status                                                                                                                                                     
+  26 rm testing.py                                                                                                                                                  
+  27 git status                                                                                                                                                     
+  28 git restore testing.py                                                                                                                                         
+  29 git status                                                                                                                                                     
+  30 history                                                                                                                                                        
+  31 git status                                                                                                                                                     
+  32 git add gits_commands.txt                                                                                                                                      
+  33 git commit -m "This is the git commands file"                                                                                                                  
+  34 git status                                                                                                                                                     
+  35 https://github.com/Rahul-3020/git-commands.git                                                                                                                 
+  36 git remote add origin https://github.com/Rahul-3020/git-commands.git                                                                                           
+  37 git remote -v                                                                                                                                                  
+  38 git status                                                                                                                                                     
+  39 git push origin master                                                                                                                                         
+  40 git remote -v                                                                                                                                                  
+     git remote set-url origin https://github.com/Rahul-3020/git-commands.git                                         
+  42 git remote -v                                                                                                                                                  
+  43 git push origin master                                                                                                                                         
+  44 git status                                                                                                                                                     
+  45 git add demo.txt                                                                                                                                               
+  46 git status                                                                                                                                                     
+  47 git commit -m "This is the demo file"                                                                                                                          
+  48 git status                                                                                                                                                     
+  49 git push origin master                                                                                                                                         
+  50 cd ..                                                                                                                                                          
+  51 mkdir clone-git-commands                                                                                                                                       
+  52 ls                                                                                                                                                             
+  53 ls                                                                                                                                                             
+  54 dir                                                                                                                                                            
+  55 ls                                                                                                                                                             
+  56 cd Rahul-3020/git-commands.git                                                                                                                                 
+  57 cd git-commands.git                                                                                                                                            
+  58 cd clone-git-commands                                                                                                                                          
+  59 ls                                                                                                                                                             
+  60 git clone https://github.com/Rahul-3020/git-commands.git                                                                                                       
+  61 ls                                                                                                                                                             
+  62 cd git-commands                                                                                                                                                
+  63 ls                                                                                                                                                             
+  64 cd ..                                                                                                                                                          
+  65 cd ..                                                                                                                                                          
+  66 ls                                                                                                                                                             
+  67 cd github-for-devops-workshop                                                                                                                                  
+  68 ls                                                                                                                                                             
+  69 history                                                                                                                                                        
+  70 git push origin master                                                                                                                                         
+  71 git push origin master                                                                                                                                         
+  72 git status                                                                                                                                                     
+  73 git push origin main                                                                                                                                           
+  74 git push origin master                                                                                                                                         
+  git remote set-url origin https://github.com/Rahul-3020/git-commands.git                                          
+  76 git status                                                                                                                                                     
+  77 git commit -m "This is the git commands file"                                                                                                                  
+  78 git add gits_commands.txt    
+  git status                                                                                                                                  
