@@ -67,4 +67,5 @@
   76 git status                                                                                                                                                     
   77 git commit -m "This is the git commands file"                                                                                                                  
   78 git add gits_commands.txt    
-  git status                                                                                                                                  
+  git status
+  git init                                                                                                                               
